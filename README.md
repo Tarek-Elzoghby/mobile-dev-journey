@@ -20,7 +20,7 @@ I'm coming from a Python background with no prior mobile experience. This repo t
 **Current phase: 1 — Dart fundamentals**
 
 ---
-
+```
 ## Structure
 phase-1-dart/        → Dart language fundamentals
 phase-2-flutter/     → Flutter UI and state management
@@ -28,7 +28,7 @@ phase-3-firebase-apis/ → Firebase, REST APIs, real data
 phase-4-portfolio/   → Polished apps built for employers and clients
 phase-5-react-native/ → Cross-platform with React Native
 phase-6-native/      → Native Swift or Kotlin
-
+```
 ---
 
 ## Stack

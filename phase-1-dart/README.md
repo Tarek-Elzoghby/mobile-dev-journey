@@ -5,7 +5,7 @@
 
 ## Topics covered
 
-- [ ] Variables, types, null safety
+- [x] Variables, types, null safety
 - [ ] Functions — named params, arrow syntax
 - [ ] Control flow
 - [ ] Collections — List, Map, Set
